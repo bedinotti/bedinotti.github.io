@@ -10,7 +10,7 @@ on:
 
 jobs:
   spellchecking:
-    runs-on: ubuntu-latest
+    runs-on: node20
     steps:
       - uses: actions/checkout@v2
         name: Check out the code
