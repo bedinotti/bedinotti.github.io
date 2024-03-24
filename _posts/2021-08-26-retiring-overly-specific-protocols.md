@@ -2,6 +2,7 @@
 layout: post
 title:  Retiring Overly-specific Protocols
 date:   2021-08-26 07:07:00 -0700
+author: vanessa
 tags: swift ios
 category: software
 ---

@@ -2,6 +2,7 @@
 layout: post
 title:  The Golden Rules of `weak self`
 date:   2022-04-10 11:45:00 -0700
+author: vanessa
 tags: swift ios
 category: software
 ---

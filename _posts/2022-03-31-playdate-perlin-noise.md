@@ -2,6 +2,7 @@
 layout: post
 title:  Generating Perlin Noise on Playdate
 date:   2022-03-31 08:00:00 -0700
+author: vanessa
 category: software
 tags: playdate lua
 ---

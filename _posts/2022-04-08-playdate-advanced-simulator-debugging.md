@@ -2,6 +2,7 @@
 layout: post
 title:  Advanced Debugging with the Playdate Simulator
 date:   2022-04-08 06:00:00 -0700
+author: vanessa
 category: software
 tags: playdate lua
 ---
