@@ -22,7 +22,7 @@ title: Vanessa Bedinotti
 email: me@vanessa.fyi
 description: >- # this means to ignore newlines until "baseurl:"
   A woman of many talents. Sometimes I write words good. Opinions mine and correct.
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vanessa.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bedinotti
 
